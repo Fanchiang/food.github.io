@@ -1,0 +1,9 @@
+table.sample,
+td,
+tr,
+th {
+    border: 1px solid;
+    margin: 1px;
+    text-align: center;
+    border-collapse: collapse;
+}
